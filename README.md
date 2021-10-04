@@ -1,6 +1,6 @@
 # Prentech It
 
-Live link: [Netlify](https://serene-banach-af5df6.netlify.app/contact).
+Live link: [https://serene-banach-af5df6.netlify.app/contact](https://serene-banach-af5df6.netlify.app/contact).
 
 ## Available In This website.
 
