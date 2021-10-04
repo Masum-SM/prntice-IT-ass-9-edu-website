@@ -1,0 +1,22 @@
+
+.home-body{
+    color: white;
+    background-color: rgb(59, 58, 58);
+    margin-top: 0;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+.title-div h4{
+ text-align: justify;
+ padding: 15px 30px;
+ font-weight: 400;
+ font-size: 24px;
+}
+.title{
+    margin-top: 30px;
+    font-size: 38px;
+    font-weight: 800;
+}
+.Prentice{
+    color: orange;
+}

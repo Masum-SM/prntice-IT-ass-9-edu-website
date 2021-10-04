@@ -1,0 +1,16 @@
+
+
+
+.nav{
+    color: orange !important;
+    font-weight: 700;
+    font-size: 21px;
+}
+.logo{
+    color: white;
+    font-weight: 700;
+}
+.logo span{
+    color: orange;
+    font-size: 32px;
+}

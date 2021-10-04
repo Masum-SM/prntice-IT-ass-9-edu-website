@@ -1,0 +1,56 @@
+
+
+
+.about{
+    background-color: rgb(95, 95, 95);
+    color: white;
+    padding-bottom: 40px;
+}
+
+
+.about h1{
+    padding: 40px;
+    font-weight: 800;
+    color: white;
+    background-color: rgb(24, 23, 23);
+    width: 40%;
+    margin: auto;
+    border-radius: 0 0 30px 30px;
+    margin-bottom: 60px;
+    
+    border-left: 2px solid orange;
+    border-right: 2px solid orange;
+    border-bottom: 2px solid orange;
+   
+    
+    
+
+}
+.about-des{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 60px;
+    
+}
+.about-des h5{
+    width: 60%;
+    text-align: justify;
+    margin-right: 30px;
+}
+.about-des img{
+    width: 45%;
+    border: orange 2px solid;
+    padding: 10px;
+}
+
+.about-info{
+    margin-left: 40px;
+    text-align: start;
+    margin-top: 60px;
+}
+.about-info h3{
+    color: orange;
+}

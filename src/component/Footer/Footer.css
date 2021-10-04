@@ -1,0 +1,21 @@
+
+
+.footer{
+    background-color: rgb(27, 27, 27);
+    color: white;
+    font-weight: 700;
+    padding: 20px;
+    
+}
+.icon{
+    margin-bottom: 20px;
+}
+.footer a{
+    margin-right: 30px;
+    color: white;
+    border: 2px solid orange;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 7px 12px;
+    border-radius: 50%;
+}

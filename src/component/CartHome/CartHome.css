@@ -1,0 +1,39 @@
+
+.cart{
+    margin-top: 100px;
+    
+}
+.home-cart{
+    width: 80%;
+    margin: auto;
+    padding-top: 25px;
+    border: orange 3px solid;
+}
+.home-cart img{
+    width: 90%;
+    height: 350px;
+    margin: auto;
+    border-radius: 4px;
+}
+.Course-name{
+    font-weight: 700;
+    color: orange;
+    font-size: 30px;
+}
+.mentor{
+    margin-top: 10px;
+    color: gray;
+    font-size: 22px;
+}
+.duration{
+    color: gray;
+    font-weight: 500;
+}
+.price{
+    color: black;
+    font-weight: 900;
+    font-size: 25px;
+}
+.price span{
+    color: red;
+}
