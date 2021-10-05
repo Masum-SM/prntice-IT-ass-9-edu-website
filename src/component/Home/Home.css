@@ -1,7 +1,14 @@
 
+.image img{
+    width: 100%;
+   
+    
+    
+}
 .home-body{
     color: white;
-    background-color: rgb(59, 58, 58);
+    background-image: linear-gradient(to right,#171346,#1a90bb);
+    /* background-color: rgb(59, 58, 58); */
     margin-top: 0;
     padding-top: 20px;
     padding-bottom: 100px;
