@@ -1,6 +1,7 @@
 [
     {
         "courseName": "Graphic Design",
+        "code": 1,
         "img": "https://www.miraclenext.com/blog/wp-content/uploads/2013/06/graphic-design.jpg",
         "description": "The main purpose here is to make you able to use the graphic design tools and techniques in a professional way. Graphic Design helps to build the brand identity of a company. Thus it needs to be conceptual and unique to represent a company, brand or any kind of products or services. The module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start afresh. To know more about the module, take a look in the highlights of the module and get insights of how we are conducting the course.",
         "career": "The career opportunity in graphic design is demanding all over the world. Two great opportunities in graphic design are freelancing and outsourcing",
@@ -10,6 +11,7 @@
     },
     {
         "courseName": "Web Design",
+        "code": 2,
         "img": "https://tse1.mm.bing.net/th?id=OIP.cukgnUN3_sg7kVOSGXdCGgHaDp&pid=Api&P=0&w=348&h=172",
         "description": "Web design means creating websites with a user-friendly structure and with an aesthetic approach. A web designers always think about the layout, color scheme and unique design of a website. But their task does not just end there. They also work hard to create a user-friendly navigation system. They also need to rank their websites and for that, they need to do some SEO tasks too. In short Web Designer can be denoted as a front-end designer or an experienced designer.",
         "career": "Here is a list of possible job opportunities for the software developers, designers who will complete the course. After completing the course and handling all project works, it is possible for students to build one strong portfolio and can apply for jobs that are open for recruitment. ",
@@ -19,6 +21,7 @@
     },
     {
         "courseName": "Video Editing",
+        "code": 3,
         "img": "https://toptelmultimedia.com/wp-content/uploads/2020/06/video_editing_course.jpg",
         "description": "Are you a film buff? Looking for creating your own YouTube channel? Make some documentaries may be. Or may be some funny videos of a cat. Or are you into more serious stuff? Whatever your need is, you may learn the digital filmmaking for yourself. That way you won’t have to be dependent on anyone else for video making. Shoot your own videos, edit them as you want, publish them on YouTube, Vimeo, or any other such platform and be the next superstar.",
         "duration": "6 Month",
@@ -28,6 +31,7 @@
     },
     {
         "courseName": "Cyber Security",
+        "code": 4,
         "img": "https://creativeitinstitute.com/front/images/courses/ethical-hacking.jpg",
         "description": "The main purpose here is to make you able to use the graphic design tools and techniques in a professional way. Graphic Design helps to build the brand identity of a company.rand or any kind of products or services. The module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start afresh. To know more about the module, take a look in the highlights of the module and get insights of how we are conducting the course.",
         "career": "",
@@ -37,6 +41,7 @@
     },
     {
         "courseName": "Digital Marketing",
+        "code": 5,
         "img": "https://creativeitinstitute.com/front/images/courses/digital-marketing.png",
         "description": "Creative IT institute, a leading IT training institute in Bangladesh, has set its eye on providing the necessary support to individuals who want to exploit the opportunity and make their mark in digital marketing.Our digital marketing course will not only enable you to have a good understanding of the fundamentals of digital marketing but also generate a strategy for career growth.",
         "career": "A career in digital marketing offers a wide range of possibilities. The career options in digital marketing are varied to a large extent, both in terms of regular jobs or freelancing.As the digital population continues to rise, digital marketers are highly sought after by global brands. In fact, small or large, every business needs digital marketers to boost their brand awareness and sales.",
@@ -46,6 +51,7 @@
     },
     {
         "courseName": "Web Development",
+        "code": 6,
         "img": "https://creativeitinstitute.com/front/images/courses/professional-web-development.png",
         "description": "Web Development consists of two segments: front end development and backend development. Front-end Developers work with visual designs of a website and build the sites using code. The front end developer builds the structure of a website using HTML, then change the layout using CSS and sometimes uses javascript too. Besides Backend developers work with more advanced issues. They work with API (Application Programming Interfaces), CGI programs and sometimes script like PHP. Websites functionality is their main concern.",
         "career": "Here is a list of possible job opportunities for the software developers, designers who will complete the course. Completing the course and handling all project works, it is possible for students to build one strong portfolio and can apply for jobs that are open for recruitment. It is possible both in local and international marketplaces.",
@@ -55,6 +61,7 @@
     },
     {
         "courseName": "UX/UI Design",
+        "code": 7,
         "img": "https://creativeitinstitute.com/front/images/courses/ui-ux-design.png",
         "description": "This course UX & UI Design is designed for those people, who wants to design anything to keep users on first priority and working on to make them happy. In our course, we will guide you for complete website UI & Mobile UI based on User Experience. You will learn what is a user need, How can we solve user’s problem by web application & also by mobile application. Moreover you will learn why UX is important for any system where a user involved like websites & Mobile Application. Our Course module is divided into three important section so that you can learn from scratch.",
         "career": "",
@@ -64,6 +71,7 @@
     },
     {
         "courseName": "Certified Network Associate",
+        "code": 8,
         "img": "https://creativeitinstitute.com/front/images/courses/ccna.png",
         "description": "The Cisco CCNA network associate certification validates the ability to install, configure, operate, and troubleshoot medium-size routed and switched networks, including implementation and verification of connections to remote sites in a WAN. This new curriculum includes basic mitigation of security threats, introduction to wireless networking concepts and terminology, and performance-based skills. This new curriculum also includes (but is not limited to) the use of these protocols: IP, Enhanced Interior Gateway Routing Protocol (EIGRP), Serial Line Interface Protocol Frame Relay.",
         "career": "",

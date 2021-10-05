@@ -1,0 +1,10 @@
+.Error{
+    height: 60vh;
+    margin-top: 50px;
+}
+.Error h2{
+    font-weight: 700;
+}
+.Error h3{
+    color: orange;
+}

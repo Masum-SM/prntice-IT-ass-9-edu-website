@@ -11,7 +11,7 @@ const Footer = () => {
                 <a href="https://www.whatsapp.com/"><i className="fab fa-whatsapp"></i></a>
                 <a href="https://www.twitter.com/"><i className="fas fa-map-marker-alt"></i></a>
             </div>
-            <h6>Copyright © 2021 Prentice IT Institute. | Sitemap</h6>
+            <h6>Copyright © 2021 Prentice IT Institute. Provided by Mr.x</h6>
         </div>
     );
 };

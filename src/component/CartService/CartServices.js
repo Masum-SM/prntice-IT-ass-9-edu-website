@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card } from 'react-bootstrap';
+import { Button, Card } from 'react-bootstrap';
 import './CartService.css'
 
 const CartServices = (props) => {
@@ -23,7 +23,10 @@ const CartServices = (props) => {
 
                             </div>
                             <h3>Price: <span>${price}</span> </h3>
+
+                            <Button variant="outline-warning">Enroll</Button>{' '}
                         </Card.Body>
+
                     </div>
                 </div>
 

@@ -24,6 +24,7 @@
     justify-content: space-evenly;
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 40px;
 }
 .contact-info h2{
     color: orange;
@@ -36,6 +37,24 @@
 .contact-call{
     text-align: start;
 }
+.get-in-touch{
+    width: 50%;
+    margin: auto;
+}
+.input-feild{
+    border: 2px solid orange;
+    border-radius: 7px;
+    margin: auto;
+    margin-top: 25px 0;
+    outline: none;
+    
+}
+.input-feild button{
+    color: orange;
+    background-color: black;
+
+}
+
 .contact-call h6{
     line-height: 40px;
 }

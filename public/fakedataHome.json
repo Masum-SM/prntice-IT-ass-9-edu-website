@@ -1,6 +1,7 @@
 [
     {
         "courseName": "Graphic Design",
+        "code": 1,
         "img": "https://www.miraclenext.com/blog/wp-content/uploads/2013/06/graphic-design.jpg",
         "mentor": "Ashik Iqbal",
         "duration": "6 Month",
@@ -8,6 +9,7 @@
     },
     {
         "courseName": "Web Design",
+        "code": 2,
         "img": "https://tse1.mm.bing.net/th?id=OIP.cukgnUN3_sg7kVOSGXdCGgHaDp&pid=Api&P=0&w=348&h=172",
         "duration": "6 Month",
         "mentor": "Yeahyeah Mahmud",
@@ -15,6 +17,7 @@
     },
     {
         "courseName": "Video Editing",
+        "code": 3,
         "img": "https://toptelmultimedia.com/wp-content/uploads/2020/06/video_editing_course.jpg",
         "duration": "6 Month",
         "mentor": "Ababil Humaira",
@@ -22,6 +25,7 @@
     },
     {
         "courseName": "Cyber Security",
+        "code": 4,
         "img": "https://creativeitinstitute.com/front/images/courses/ethical-hacking.jpg",
         "duration": "6 Month",
         "mentor": "Musfiq Hossain",
